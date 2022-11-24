@@ -5,6 +5,8 @@ DEFAULT_TEMPLATE = """
 _{author}_
 
 [{passage}]({passage_url})
+
+{content}
 """
 
 class DefaultView:
